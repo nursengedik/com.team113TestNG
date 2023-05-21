@@ -10,6 +10,7 @@ public class C05_QualitydemyLoginTesti {
 
     @Test
     public void test01(){
+
         // QUALITYDEMY ANA SAYFAYA GIDIN
         Driver.getDriver().get(ConfigReader.getProperty("qdUrl"));
 

@@ -10,6 +10,7 @@ public class C06_QualitydemyNegatifLoginTesti {
 
     @Test
     public void test01(){
+
         // QUALITYDEMY ANA SAYFAYA GIDIN
         Driver.getDriver().get(ConfigReader.getProperty("qdUrl"));
         // login linkine tiklayin
