@@ -1,8 +1,6 @@
-package tests.day16_Assertions;
+package tests.day16_POM_Assertions;
 
 import org.testng.annotations.Test;
-import utilities.ConfigReader;
-import utilities.Driver;
 
 public class C02_SingletonPattern {
 
